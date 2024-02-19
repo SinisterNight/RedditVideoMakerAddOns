@@ -1,0 +1,1 @@
+This needs to be placed within the root folder with RedditVideoMaker. once inside open terminal within redditVideoMaker and run python fileNames.py it will copy the file name parse the file extension and pipe it to the clip board for faster video creation. this is done with the newest edited one so it will only work for single files at the moment.
